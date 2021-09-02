@@ -6,6 +6,8 @@
 
 ### Breaking Behavior
 
+* Update `ArrayMetadata` to skip `DimMetadata`.
+
 ### New Features
 
 * Add `create_array` to `DataspaceCreator` for dataspaces with 1 array.
